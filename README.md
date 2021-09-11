@@ -29,7 +29,6 @@ Interested and open to new ideas on bettering rural communities through internet
 <br />
 <br />
 <br />
-<br />
 
 - 🔭 &nbsp; Currently working on a localized digital platform for hiring professionals. 
 - 🌱 &nbsp; Learning Flutter, Figma, Deno and other backend technologies. 
